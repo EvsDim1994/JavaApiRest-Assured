@@ -29,6 +29,6 @@ public class ApiPostTests1 extends HooksApi {
 
         String token = jsonPath.get("token");
 
-        System.out.println(token);
+        System.out.println("Токен: " + token);
     }
 }
