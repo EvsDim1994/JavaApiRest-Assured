@@ -1,5 +1,4 @@
 package Get.XML;
-import io.restassured.http.ContentType;
 import io.restassured.path.xml.XmlPath;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
